@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta content="width=device-width, initial-scale=1.0" name="viewport">
+
+	<title>Pre-Order | Rainbow Seven Siege | Ubipost</title>
+	<link rel="icon" type="image" href="./assets/logo/logo-7.png">
+	<link rel="stylesheet" type="text/css" href="./css/style.css">
+</head>
+
+<body>
+	<div class="container" id="container">
+		<!-- Navbar -->
+		<div class="header">
+			<div class="logo">
+				<a href="./index.html"><img src="./assets/logo/logo-rainbow.png"></a> 
+			</div>
+			<div class="navbar">
+	            <ul>
+	               <li class="dropdown">
+	                   <a href="#">Game Info</a>
+	                   <div class="dropdown-content">
+	                       <a href="./operator.html">Operators</a>
+	                       <a href="./map.html">Maps</a>
+	                   </div>
+                   </li>
+	               <li><a href="./quarantine.html">Quarantine</a></li>
+	               <li><a href="./pre-order.html">Pre-Order</a></li>
+	            </ul>
+	        </div>
+		</div>
+		<!-- .Navbar -->
+
+		<!-- Title -->
+		<div class="title">
+			<h2>PRE - ORDER</h2>
+		</div>
+		<!-- .Title -->
+
+		<!-- Form -->
+        <div class="form">
+    		<div class="form-container">
+                <form name="preorder" onsubmit="return formValidator()">
+                    <input class="form-int" type="username" name="username" placeholder="Username">
+                    <input class="form-int" name="email" placeholder="Email">
+                    <input class="form-int" type="password" name="password" placeholder="Password">
+                    <input class="form-int" type="number" name="quantity" placeholder="Number of copies">
+					<select name="select">
+						<option disabled="selected hidden">Please choose type of the game</option>
+						<option>Basic Edition</option>
+						<option>Silver Edition</option>
+						<option>Gold Edition</option>
+						<option>Platinum Edition</option>
+			        </select>
+                    <div class="checked">
+                        <input class="terms" type="checkbox" name="checkbox">
+                        <small class="terms">I accept the Terms and Services</small>
+                    </div>
+                    <button class="btn-register">Register</button>
+                </form>
+            </div>
+        </div>
+        <!-- .Form-->
+
+        <!-- Footer -->
+        <div class="footer">
+            <p>&copy; Copyright <strong><span>Rainbow Seven Seiege</span></strong></p>
+        </div>
+        <!-- .Footer -->
+	</div>
+
+	<script type="text/javascript" src="./js/main.js"></script>
+</body>
+</html>

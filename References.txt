@@ -1,0 +1,32 @@
+
+
+Operator Name:
+https://www.ubisoft.com/en-us/game/rainbow-six/siege/game-info/operators
+
+Map Name:
+https://www.ubisoft.com/en-us/game/rainbow-six/siege/game-info/maps
+
+Assets:
+- News:
+  n-1 : https://ubistatic19-a.akamaihd.net/resource/en-us/game/news/rainbow6/siege-v3/panther-shield_960x540-v1_322173.jpg
+  n-2 : https://preview.redd.it/ob01u7jyrsw11.jpg?auto=webp&s=2e6319ad640f3847cd0df7ce5d786c38a1deb284
+  n-3 : https://r6skin.com/wp-content/uploads/2019/02/r6-arabian_desert_bundle-detail_ncsa-thumb-960x540_332445.jpg
+
+- Operator:
+  *all operator pics from : https://www.ubisoft.com/en-us/game/rainbow-six/siege/game-info/operators
+
+- Maps:
+  *all map pics from : https://www.ubisoft.com/en-us/game/rainbow-six/siege/game-info/maps
+
+- Hero:
+  hero-1 : https://gamespot1.cbsistatic.com/uploads/original/1556/15568848/3462159-6885656770-33566.jpg
+  hero-2 : https://ubistatic19-a.akamaihd.net/resource/en-us/game/news/rainbow6/siege-v3/panther-shield_960x540-v1_322173.jpg
+  hero-3 : https://preview.redd.it/ob01u7jyrsw11.jpg?auto=webp&s=2e6319ad640f3847cd0df7ce5d786c38a1deb284
+  hero-4 : https://r6skin.com/wp-content/uploads/2019/02/r6-arabian_desert_bundle-detail_ncsa-thumb-960x540_332445.jpg
+
+- Highlight:
+  h-1 : https://gamespot1.cbsistatic.com/uploads/original/1556/15568848/3462159-6885656770-33566.jpg
+
+- Teaser
+  teaser  : https://store.ubi.com/on/demandware.static/-/Sites/default/dw5c07273d/images/Category%20Banner/CATBAN_R6_1920x450.jpg
+  teaser1 : https://pbs.twimg.com/media/DqOHscDVYAAdXim.jpg	
